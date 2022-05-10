@@ -1,0 +1,46 @@
+body{
+    font-family: 'open sans', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+.menu{
+    background-color:#938DF8;
+    
+}
+.menu a{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+}
+ul{
+    list-style:none;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 36px;
+    color:#938DF8;
+}
+
+.subtitle{
+    font-size: 24px;
+    color: rgba(128, 128, 128, 0.705);
+}
+.intro{
+    font-family: 'Abeezee', sans-serif;
+    color: black;
+    font-size: 16px;
+
+}
+section h1{
+    font-family: 'opem sans', sans-serif;
+    font-size: 24px;
+    color:#49BFB3;
+    
+
+
+}
